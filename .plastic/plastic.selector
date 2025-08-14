@@ -1,0 +1,4 @@
+repository "Project Galaxy Explorer/Gestion-Groupe2@1375796570905@cloud"
+  path "/"
+    br "/main"
+    co "/main"
